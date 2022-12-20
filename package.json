@@ -1,6 +1,6 @@
 {
   "name": "simple-effing-diagram",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple f*cking diagram for React.",
   "main": "lib/index.cjs.js",
   "module": "lib/index.esm.js",
