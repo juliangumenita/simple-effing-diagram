@@ -18,7 +18,7 @@ const Screen = ({ children }) => {
             },
             {
               _id: "634971ddccbf37ce8d36a633",
-              name: "In Chares",
+              name: "In Charges",
             },
             {
               _id: "634971e1dc3e2787707dee81",
